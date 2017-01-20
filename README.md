@@ -1,0 +1,1 @@
+This bundle provide some Symfony forms to handle region and departments of France.
