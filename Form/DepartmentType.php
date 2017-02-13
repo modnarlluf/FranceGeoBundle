@@ -12,7 +12,7 @@ class DepartmentType extends AbstractType
     {
         $resolver->setDefaults([
             'choices' => [
-                '01 -Ain'                      => '01 -Ain',
+                '01 - Ain'                      => '01 - Ain',
                 '02 - Aisne'                   => '02 - Aisne',
                 '03 - Allier'                  => '03 - Allier',
                 '04 - Alpes-de-Haute-Provence' => '04 - Alpes-de-Haute-Provence',
