@@ -14,7 +14,7 @@ class RegionType extends AbstractType
         $resolver->setDefaults([
             'choices' => [
                 'Auvergne-Rhône-Alpes'        => 'Auvergne-Rhône-Alpes',
-                'Bourgogne-France-Comté'      => 'Bourgogne-France-Comté',
+                'Bourgogne-Franche-Comté'      => 'Bourgogne-Franche-Comté',
                 'Bretagne'                    => 'Bretagne',
                 'Centre-Val de Loire'         => 'Centre-Val de Loire',
                 'Corse'                       => 'Corse',
