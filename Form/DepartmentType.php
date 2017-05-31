@@ -108,6 +108,11 @@ class DepartmentType extends AbstractType
                 '93 - Seine-Saint-Denis'       => '93 - Seine-Saint-Denis',
                 '94 - Val-de-Marne'            => '94 - Val-de-Marne',
                 '95 - Val-d\'Oise'             => '95 - Val-d\'Oise',
+                '971 - Guadeloupe'             => '971 - Guadeloupe',
+                '972 - Martinique'             => '972 - Martinique',
+                '973 - Guyanne'                => '973 - Guyanne',
+                '974 - La Réunion'             => '974 - La Réunion',
+                '976 - Mayotte'                => '976 - Mayotte',
             ],
         ]);
     }

@@ -14,7 +14,7 @@ class RegionType extends AbstractType
         $resolver->setDefaults([
             'choices' => [
                 'Auvergne-Rhône-Alpes'        => 'Auvergne-Rhône-Alpes',
-                'Bourgogne-Franche-Comté'      => 'Bourgogne-Franche-Comté',
+                'Bourgogne-Franche-Comté'     => 'Bourgogne-Franche-Comté',
                 'Bretagne'                    => 'Bretagne',
                 'Centre-Val de Loire'         => 'Centre-Val de Loire',
                 'Corse'                       => 'Corse',
@@ -26,6 +26,7 @@ class RegionType extends AbstractType
                 'Occitanie'                   => 'Occitanie',
                 'Pays de la Loire'            => 'Pays de la Loire',
                 'Provence-Alpes-Côte d\'Azur' => 'Provence-Alpes-Côte d\'Azur',
+                'Outre-Mer'                   => 'Outre-Mer',
             ],
         ]);
     }
